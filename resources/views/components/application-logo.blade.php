@@ -1,1 +1,1 @@
-<img src="{{ asset('logo/eleblack.png') }}" width="100px" >
+<img src="{{ asset('backend\assets\images\CT_logo.jpeg') }}" width="100px" >
